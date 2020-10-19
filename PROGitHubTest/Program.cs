@@ -7,7 +7,7 @@ namespace PROGitHubTest
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.helloWorlds();
+            program.helloWorld();
         }
 
         public void helloWorld()
